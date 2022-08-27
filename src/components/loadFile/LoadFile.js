@@ -29,7 +29,7 @@ export default function LoadFile({setDataTable, setFilters}) {
     const res = await file.arrayBuffer(); 
     let hashWorkbook = {};
 
-    for(let z = 0; z < 31; z++) {      
+    for(let z = 0; z < 32; z++) {      
       console.log([SHEETSNAMES[z]])
       let sheetName = SHEETSNAMES[z]
       
