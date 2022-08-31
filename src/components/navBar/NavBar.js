@@ -14,7 +14,7 @@ export default function NavBar() {
                 // maxWidth: { xs: 350, md: 250 },
               }}
               alt="EL CLUB"
-              src="https://d1fdloi71mui9q.cloudfront.net/HSMEKqLwRQaZSZE0Ea9D_0rXHJBhDB5remGMK"
+              src="https://pps.whatsapp.net/v/t61.24694-24/172150149_1114627222624177_7985391750631597188_n.jpg?ccb=11-4&oh=01_AVy5RqGbfPfI32C_kUUJZP_dgHvkAOnNcgFHvqn2S6LpQw&oe=63203822"
             />
         </nav>      
     </div>
