@@ -76,7 +76,7 @@ export default function TableData({dataTable, filters}) {
   },[dataTable]) 
   
   useMemo(()=>{
-    if(rowsService[0] && rowsProduct[0]){
+    if(rowsService[0] || rowsProduct[0]){
       let rowsServicesProcess = rowsService.filter(s=>s.profesional===professional)
       let rowsProductsProcess = rowsProduct.filter(s=>s.profesional===professional)
       let totalServiceProcess = 0
